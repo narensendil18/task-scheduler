@@ -1,3 +1,4 @@
+com\narensendil\scheduler\engine\SchedulerEngine.class
 com\narensendil\scheduler\engine\model\ScheduledTask.class
 com\narensendil\scheduler\engine\model\ScheduleMetrics.class
 com\narensendil\scheduler\engine\internal\ReadyQueuePicker$1.class

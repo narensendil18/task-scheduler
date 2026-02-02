@@ -1,0 +1,3 @@
+com\narensendil\scheduler\engine\SchedulerEngineTest.class
+com\narensendil\scheduler\engine\CycleDetectionTest.class
+com\narensendil\scheduler\engine\StrategyOrderingTest.class
